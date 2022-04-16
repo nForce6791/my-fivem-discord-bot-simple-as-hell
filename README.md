@@ -17,3 +17,10 @@ Base of the bot was from https://github.com/SuperSweatyTejas/Discord.js-v12-Bot-
 Yes, I know there's an actual bot token in config.json, I reset it, so that one doesn't work anymore. 
 
 Do anything you want with it. Anything you may need to change is in the command files, and anything else is in config.json.
+
+Make sure you have developer mode turned on (user settings -> advanced -> developer mode)
+
+You need that to get the server id and role ids, which are needed in multiple parts of the bot.
+
+
+Do *anything* you want with this bot, just please, if you reupload, credit me and SuperSweatyTejas. Thanks
