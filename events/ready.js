@@ -1,7 +1,7 @@
 const config = require('../config.json')
 const chalk = require('chalk')
+const Discord = require('discord.js');
 
-const url = (process.env.MONGO)
 
 module.exports = async (client) => {
     console.log(chalk.green(`[READY] ${client.user.tag} is online!`));
