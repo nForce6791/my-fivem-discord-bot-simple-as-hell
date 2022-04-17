@@ -9,6 +9,7 @@ It's just a simple discord bot that I use for my FiveM server, nForceRP.
  - It allows you to accept applications/deny applications
  - Allows you to "hack" another person
  - Pings the bot
+ - Other fun commands
 
 Literally a super simple bot. 
 
