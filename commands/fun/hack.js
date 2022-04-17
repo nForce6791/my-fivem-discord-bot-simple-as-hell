@@ -51,7 +51,7 @@ module.exports = {
         let hackEmbed = new Discord.MessageEmbed()
             .setTitle(`@${member.user.tag} just just been hacked!`)
             .setColor('RANDOM')
-            .setDescription(`Your name: **${member.user.tag}** \n Your email: **${member.user.tag}${randomEmailAppend}** \n Your IP: **${randomIP}** \n Your password: **${Math.floor(Math.random() * 100000000)}** \n Your phone number: **${Math.floor(Math.random() * 100000000000)}** \n Your credit card number: **${Math.floor(Math.random() * 1000000000000)}** \n Your adress: **${randomAdress}**`)
+            .setDescription(`Your name: **${member.user.tag}** \n Your email: **${member.user.tag}${randomEmailAppend}** \n Your IP: **${randomIP}** \n Your password: **${Math.floor(Math.random() * 100000000)}** \n Your phone number: **${Math.floor(Math.random() * 1000000000)}** \n Your credit card number: **${Math.floor(Math.random() * 1000000000000000)}** \n Your adress: **${randomAdress}**`)
             .setFooter(`Hacked by ${message.author.username}`, `${message.author.displayAvatarURL()}`, `*this is not real, just a joke. not anyones personal information, not possible through a normal bot.*`)
             .setTimestamp()
 

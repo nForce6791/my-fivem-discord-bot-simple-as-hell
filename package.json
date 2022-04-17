@@ -1,8 +1,11 @@
 {
   "dependencies": {
+    "discord-player": "^5.2.2",
     "discord.js": "^12.5.3",
     "got": "^12.0.3",
     "nodemon": "^2.0.15",
+    "opus": "^0.0.0",
+    "opusscript": "^0.0.8",
     "random-puppy": "^1.1.0"
   }
 }
